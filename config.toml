@@ -1,0 +1,4 @@
+canonifyURLs = true
+publishDir = "docs"
+languageCode = "en-au"
+baseURL = "https://fusion809.github.io/hugo-site"
